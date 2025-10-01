@@ -3,10 +3,11 @@ export default function Skills() {
     <section id="skills" className="skills">
       <h2>Tekniska färdigheter</h2>
       <ul>
-        <li>React / TypeScript / JavaScript</li>
+        <li>Java / SpringBoot</li>
         <li>HTML / CSS / Tailwind</li>
         <li>Git & GitHub</li>
-        <li>Node.js & npm</li>
+        <li>React / Angular / Node.js / Typescript</li>
+        <li>MongoDb / PostgreSql</li>
       </ul>
     </section>
   )
