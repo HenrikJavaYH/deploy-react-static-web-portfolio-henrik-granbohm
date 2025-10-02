@@ -1,3 +1,26 @@
+Välkomna till min portfolio-applikation som är hostad i Molnet!
+
+Först och främst, här är URL:en till min hemsida jag gjort: https://red-flower-0768e6f10.2.azurestaticapps.net/#about
+
+Här nedan kommer jag lägga in lite bilder på processen om vad det innebär att koppla ett projekt i react till Azure som är microsofts molntjänst.
+
+<img width="1920" height="1080" alt="Molntjänster-Portfolio" src="https://github.com/user-attachments/assets/076b2bdd-23a4-499b-b71f-48ca735ef600" />
+Här ovan ser du min portfolio när jag kör den på localhost (lokalt på min dator).
+
+<img width="1920" height="1080" alt="Azure-plan-demo" src="https://github.com/user-attachments/assets/ad55ac6c-1213-4c1f-b57e-b5f74a3a7425" />
+
+Bilden ovan visar hur det såg ut i Azure-portalen när jag har kopplat projektet dit med hjälp av Github. 
+
+<img width="1920" height="1080" alt="Github-node-felsökning" src="https://github.com/user-attachments/assets/655a8d55-7a7c-4ddc-836b-d308d0b9011b" />
+
+Det var lite felsökning/konfiguration innan man kunde deploya applikationen korrekt (se ovan). Beroende på vilken version av node man har och om man byggt med vite etc så fick jag ändra lite i min workflows fil i VScode. 
+
+<img width="1920" height="1080" alt="azure-app-global" src="https://github.com/user-attachments/assets/3175bb23-aa9f-45bb-ba1b-47a753a1d3ca" />
+
+Tillslut lyckades jag deploya korrekt och notera nu URL:en som ej längre är localhost (lokalt), applikationen körs nu i molnet!
+
+
+
 
 # React + TypeScript + Vite
 
